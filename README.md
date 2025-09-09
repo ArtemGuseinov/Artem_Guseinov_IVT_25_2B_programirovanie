@@ -21,6 +21,7 @@ __черный__
 
 - [x] mkdmkmd 
 - [ ] fkldflkdf
+1. <http://pstu.ru/> 
 
 ## Семестр 2
  
