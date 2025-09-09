@@ -30,9 +30,9 @@ kod
 
 ```
 
-|nAZVANIE|столб 1| 
-|-|---|
-|hfhdjf|nfkdnfk|
+|nAZVANIE|столб 1|Feka|
+|-|---|--|
+|hfhdjf|nfkdnfk|oppo|
 
 ## Семестр 2
  
