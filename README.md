@@ -30,8 +30,9 @@ kod
 
 ```
 
-| nAZVANIE | столб 1 | 
-| gdg | dfdf | dfdf | 
+|nAZVANIE|столб 1| 
+|-|-|---|
+
 
 ## Семестр 2
  
