@@ -8,6 +8,8 @@ __черный__
 ~~black~~ 
 <ins>fgerk</ins>
 >Derka
+1.Geere
+2.dfdfd
 
 ## Семестр 2
  
