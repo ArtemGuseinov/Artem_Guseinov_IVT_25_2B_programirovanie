@@ -19,8 +19,8 @@ __черный__
 
 * mldfldf
 
--[x] mkdmkmd 
-=[] fkldflkdf
+- [x] mkdmkmd 
+- [ ] fkldflkdf
 
 ## Семестр 2
  
