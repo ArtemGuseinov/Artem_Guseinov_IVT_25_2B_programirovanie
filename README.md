@@ -32,7 +32,7 @@ kod
 
 |nAZVANIE|столб 1| 
 |-|---|
-
+|hfhdjf|nfkdnfk|
 
 ## Семестр 2
  
