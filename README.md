@@ -25,5 +25,13 @@ __черный__
 2. [ccылка на](http://pstu.ru "nfhfg")
 ![img](https://avatars.mds.yandex.net/i?id=d0f8eb7c37de2715b9ea50ce09006032_l-12423448-images-thumbs&n=13)
 
+``` c/pytnon
+kod
+
+```
+
+| nAZVANIE | столб 1 | 
+| gdg | dfdf | dfdf | 
+
 ## Семестр 2
  
