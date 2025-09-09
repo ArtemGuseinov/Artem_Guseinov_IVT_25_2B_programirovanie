@@ -13,5 +13,9 @@ __черный__
 
 2.dfdfd
 
+-jdfjodf
++mflmgkfg
+*mldfldf
+
 ## Семестр 2
  
