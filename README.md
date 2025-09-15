@@ -1,40 +1,15 @@
 # Лабароторные работы на тему пргромирование 
-
+**Артем Гусейнов**
 ## Семестр 1 
-*красный* 
-**черный** 
-__черный__ 
-***красный*** 
-~~black~~ 
-<ins>fgerk</ins>
->gger
-
-1.Geere
-
-2.dfdfd
-
-- jdfjodf
-
-+ mflmgkfg
-
-* mldfldf
-
-- [x] mkdmkmd 
-- [ ] fkldflkdf
-1. <http://pstu.ru/>
-2. [ccылка на](http://pstu.ru "nfhfg")
-![img](https://avatars.mds.yandex.net/i?id=d0f8eb7c37de2715b9ea50ce09006032_l-12423448-images-thumbs&n=13)
-
-``` c/pytnon
-kod
-
-```
 
 Табличка
 
-|nAZVANIE|столб 1|Feka|
+|Название|Номер|Статус|
 |-|---|--|
-|hfhdjf|nfkdnfk|oppo|
+|  | 1  | невыполнено  | 
+|  | 2  | невыполнено  | 
+|  | 3 | невыполнено  | 
+|  | 4  | невыполнено  | 
 
 ## Семестр 2
  
